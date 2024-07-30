@@ -1,7 +1,7 @@
 <h2 align="left">Hello There! 👋</h2>
 
 <h3 align="left"> 🧑‍💻 About Me: </h3>
-<p align="left">I'm Al (async/await) - I'm a 4th year BSIT Student from Zamboanga Peninsula Polytechnic State University - College of Information and Computing Science and A Fullstack Developer from Zamboanga City, Phillippines 7000</p>
+<p align="left">I'm Al (async/await) - I'm a graduate of Bachelor of Science in Information Technology from Zamboanga Peninsula Polytechnic State University - College of Information and Computing Science and A Fullstack Developer from Zamboanga City, Phillippines 7000</p>
 
 ###
 <h3 align="left">🔥 My Stats: </h3>
